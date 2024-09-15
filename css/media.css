@@ -1,0 +1,24 @@
+@media (max-width: 640px) {
+  .weather-block {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .task-block {
+    top: 122px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .time {
+    font-size: 4.5rem;
+  }
+
+  .time-date-block {
+    transform: translate(-50%, 15%);
+  }
+
+  .date {
+    font-size: 1.5rem;
+  }
+}
